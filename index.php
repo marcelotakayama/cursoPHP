@@ -90,7 +90,7 @@
         </div>
     </main>
     <footer class="rodape">
-        <b>Marcelo Takayama - 2020</b> 
+        <b>Marcelo Takayama - <?= date('Y'); ?></b>
     </footer>
 </body>
 </html>
